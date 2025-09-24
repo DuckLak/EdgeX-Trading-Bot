@@ -37,7 +37,7 @@
 
 1.  **프로젝트 클론**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/edgex-trading-bot.git
+    git clone https://github.com/DuckLak/edgex-trading-bot.git
     cd edgex-trading-bot
     ```
 
@@ -119,9 +119,3 @@ config.js
     -   `balance`: 계좌의 총 잔고 및 사용 가능 잔고를 조회합니다.
     -   `status`: 현재 활성화된 모든 전략의 목록을 표시합니다.
     -   `exit`: 봇을 안전하게 종료합니다.
-
----
-
-## 라이선스
-
-이 프로젝트는 [MIT 라이선스](LICENSE)를 따릅니다.
